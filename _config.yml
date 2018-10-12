@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: pustul ivan
+name: Pustul Ivan
 
 # Short bio or description (displayed in the header)
-description: personal page
+description: blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
