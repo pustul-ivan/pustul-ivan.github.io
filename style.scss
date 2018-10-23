@@ -150,7 +150,11 @@ img {
 // .masthead
 //
 
-wrapper {
+.wrapper {
+  max-width: 1050px;
+}
+
+section {
   max-width: 1050px;
 }
 
