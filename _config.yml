@@ -51,6 +51,8 @@ url: "https://pustul-ivan.github.io"
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+paginate: 10
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
