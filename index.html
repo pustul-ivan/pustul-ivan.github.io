@@ -5,7 +5,6 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <p>{{ post.date | date: "%B %e, %Y" }}</p>
       <div class="entry">
@@ -27,6 +26,7 @@ layout: default
   <div class="entry">
     {{ post.content }}
   </div>
+  <br /><br />
 </article>
 {% endfor %}
 
