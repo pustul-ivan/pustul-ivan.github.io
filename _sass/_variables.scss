@@ -1,0 +1,19 @@
+// Colors
+$white: #fff;
+$black: #000;
+$darkGray: #333;
+$darkerGray: #222;
+$gray: #666;
+$lightGray: #eee;
+$blue: #4183c4;
+
+// Fonts
+$helvetica: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Media query mixin for mobile
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
