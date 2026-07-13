@@ -1,7 +1,6 @@
 {
-  "name": "John Doe",
-  "bio": "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.",
-  "url": "https://justgoodthemes.com",
-  "location": "Vilnius, Lithuania",
-  "image": "images/author.png"
+  "name": "Pustul Ivan",
+  "bio": "Я профессиональный программист. Живу в Минске - это в Беларуси. Иногда фотографирую. Иногда катаюсь на мотоцикле.",
+  "url": "https://pustul-ivan.github.io",
+  "location": "Minsk, Belarus"
 }
