@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-description: О чём вообще этот блог
+title: О чём вообще этот блог
 permalink: /about/
 ---
 
