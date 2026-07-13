@@ -1,13 +1,15 @@
 /* ==========================================================================
    2. General
    ========================================================================== */
+$font-family-base: 'Georgia', sans-serif;
 
 html,
 button,
 input,
 select,
 textarea {
-  font-family: _font(primary);
+//  font-family: _font(primary);
+  font-family: $font-family-base;
 }
 
 html {
