@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Pustul Ivan"
+title: "Слова и картинки"
 
 # A description of your site for meta tag, search engine results.
-description: "Слова и картинки"
+description: "Блог без цели и смысла. Иногда картинка, иногда текст, но чаще - тишина и молчание."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
