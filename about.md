@@ -1,17 +1,18 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: About
+description: О чём вообще этот блог
 permalink: /about/
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Если кратко и честно - то ни о чём.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Я воспринимаю этот блог просто как основное место своего присутствия в сети.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Раньше, в эпоху динозавров, даил-апных модемов и гонок за шестизнаками в icq, факт самого наличия у человека какого-либо доступа в интернет практически обозначал принадлежность этого человека к определённой субкультуре. Рефлексируя, я могу сказать, что часть её ещё где-то хранится в закоулках моего сознания и ощущения мира.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+Сервисы вроде твиттера, инстаграмма, живого журнала и прочих - приходят и уходят: покупаются, отключаются, блокируются или просто предаются забвению. В какой-то момент я решил что не хочу о них зависеть, и поэтому этот блог сейчас там где находится.
 
-*Thank You for reading!*
+Я Иван, пишу программы, иногда фотографирую, иногда катаюсь на мотоцикле.
+
+Спасибо что зашли.
